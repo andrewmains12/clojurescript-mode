@@ -1,11 +1,11 @@
 
 ;;; clojurescript-mode.el --- Major mode for ClojureScript code
 
-;; Copyright (C) 2011 Luke Amdor
+;; Copyright (C) 2011 Luke Amdor, 2012 Andrew Mains
 ;;
-;; Authors: Luke Amdor <luke.amdor@gmail.com>
+;; Authors: Luke Amdor <luke.amdor@gmail.com>, Andrew Mains <amains12@gmail.com>
 ;; URL: http://github.com/rubbish/clojurescript-mode
-;; Version: 0.5
+;; Version: 0.1
 ;; Keywords: languages, lisp, javascript
 
 ;; This file is not part of GNU Emacs.
@@ -13,7 +13,8 @@
 ;;; Commentary:
 
 ;; Provides an REPL to the
-;; ClojureScript language. (http://github.com/clojure/clojurescript)
+;; ClojureScript language. (http://github.com/clojure/clojurescript) using
+;; lein cljsbuild.
 
 ;; For information on how to start up the REPL correctly see
 ;; https://github.com/clojure/clojurescript/tree/master/samples/repl
