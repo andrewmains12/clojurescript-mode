@@ -11,5 +11,5 @@ This does NOT in any way use SLIME, sadly.
 
 Assumes you've got both lein and cljsbuild already set up (if not, see https://github.com/emezeske/lein-cljsbuild).
 
-"Forked" from http://marmalade-repo.org/packages/clojurescript-mode . The original author, Luke Amdor, seems to have deleted the repo, so I just started hacking on the source from marmalade)
+"Forked" from http://marmalade-repo.org/packages/clojurescript-mode . The original author, User:rubbish, seems to have deleted the repo, so I just started hacking on the source from marmalade)
 
